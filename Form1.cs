@@ -44,7 +44,7 @@ namespace Barcode_Tiger
             //this.Left = 0;
             //this.Top = 0;
             //this.Bounds = Screen.PrimaryScreen.Bounds;
-
+//hi
 
         }
         SqlConnection con = new SqlConnection(@"Data Source=.\SQLEXPRESS;Initial Catalog=barcode_data;Integrated Security=True");
